@@ -1,6 +1,6 @@
 print "hello world"
 print "i just updated this file"
-#print "i just updated from github"
+print "i just updated from github"
 print "updated from computer, comment out line before"
 
 
